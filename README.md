@@ -148,6 +148,9 @@ http://localhost:8501
 
 ---
 
+### Deployed Project URL
+https://telecom-customer-churn-prediction-fuse201-group17.streamlit.app/
+
 ### Option 2: Docker Execution
 
 To build and run using a container:
